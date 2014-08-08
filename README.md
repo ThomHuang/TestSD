@@ -1,4 +1,4 @@
 TestSD
 ======
 
-Enumerate sd card location and write file test
+A testbed for enumerating external storage and write testing on Android
