@@ -1,0 +1,4 @@
+[submodule "art"]
+	path = art
+	url = https://android.googlesource.com/platform/art
+	branch = d8e28505
